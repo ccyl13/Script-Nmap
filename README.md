@@ -21,6 +21,6 @@ Sigue estos pasos para clonar el repositorio, configurar el script y usarlo:
 
    ```bash
    git clone https://github.com/ccyl13/Script-Nmap.git
-cd Script-Nmap
-chmod +x nmap_script.sh
-./nmap_script.sh [opciones]
+   cd Script-Nmap
+   chmod +x nmap_script.sh
+   ./nmap_script.sh [opciones]
